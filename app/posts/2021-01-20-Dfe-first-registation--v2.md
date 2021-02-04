@@ -35,18 +35,23 @@ I need to provide the correct data about myself in the application form (TRN, DO
       img: { src: "3b.png" }
     }, {
       text: "Name change",
+      caption: "We identified an issue with the teacher check. Sometimes users change their name and don't update the name on the DQT - it's not a top priority or one that users remember to do. So users who changed names were getting caught out and the TRN check was failing because of this. This is an attempt to triage people who fall into that category ",
       img: { src: "4.png" }
     }, {
       text: "Updated name",
+       caption: "If the user said that they had changed their name on the previous screen they will arrive here ",
       img: { src: "4b.png" }
     }, {
       text: "I don't know if i changed my name",
+      caption: "If the user said not sure on the previous page, they will end up here. We're not quite sure if this is the right advice, we need to check and update it + there may be better ways to deal with don't knows, needs more research. ",
       img: { src: "4cc.png" }
     },{
       text: "Name not updated",
+      caption: "If the user told us they did not change their name on the question earlier in the journey. They can proceed, and use their old name if they want or they are directed on how to change it on the DQT before proceeding. ",
       img: { src: "4c.png" }
     },  {
       text: "Change details on the DQT",
+      caption: "To change their name it needs to be updated on the teacher self service portal. We aren't really happy with this screen as it just pushes users over to another service + the conent needs a bit of crafting. We need to figure out if there is a better way of doing this. ",
       img: { src: "4d.png" }
     }, {
       text: "Qualified teacher check",

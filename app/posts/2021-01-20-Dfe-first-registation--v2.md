@@ -58,6 +58,7 @@ I need to provide the correct data about myself in the application form (TRN, DO
       img: { src: "5.png" }
     }, {
       text: "Contact details",
+      caption: "We are not asking for the name again here, as we should have got the right name at the TRN check and we can use that.  ",
       img: { src: "6.png" }
     }, {
       text: "Password",
@@ -70,9 +71,11 @@ I need to provide the correct data about myself in the application form (TRN, DO
       img: { src: "9.png" }
     }, {
       text: "Your school",
+      caption: "We are using the school that is stored on the DQT for this. However, this could be out of date as they are no longer updaing it. So may be better to junk this screen if too many are out of date. We need this to get  ",
       img: { src: "10.png" }
     },  {
       text: "Find your school",
+       caption: "If the user needs to change the school they are working at ",
       img: { src: "11.png" }
     }, {
       text: "Choose your school",

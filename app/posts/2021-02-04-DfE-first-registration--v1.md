@@ -4,10 +4,12 @@ description: First draft sketches for DfE registration journeys
 date: 2021-01-12
 ---
 
+This is the first sketch of a registation journey option that starts with the DfE, users enter their TRN details, create an account and then are handed over to the relevant provider. 
+
 ## User needs
 
 <b>As a teacher </b>
-I need to register interest and apply for an NPQ course at my chosen provider<br /><br />
+I need to register interest and apply for an NPQ course at my chosen provider<br />
 <b>As a teacher </b> 
 I need to provide the correct data about myself in the application form (TRN, DOB, Names)
 

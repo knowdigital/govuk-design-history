@@ -10,7 +10,7 @@ This is the first sketch of a registation journey option that starts with the pr
 ## User needs
 
 <b>As a teacher </b>
-I need to register interest and apply for an NPQ course at my chosen provider<br /><br />
+I need to register interest and apply for an NPQ course at my chosen provider<br />
 <b>As a teacher </b> 
 I need to provide the correct data about myself in the application form (TRN, DOB, Names)
 

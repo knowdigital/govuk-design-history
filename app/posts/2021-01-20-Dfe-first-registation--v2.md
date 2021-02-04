@@ -8,7 +8,7 @@ This is the second iteration of a registation journey option that starts with th
 In this version we have altered:
 1. the beginning of the journey to deal with the 'name issue' - the name the user enters into the TRN fields needs to match what is stored on the DQT. We found that updating the DQT wasn't top of mind when names were changed and it could get out of synch. 
 2. added the ability to find your school, so that we can look up the URN of the school to check for funding eligibility
-3. added the diversity questions that the DfE need to the end of the journey 
+3. added the diversity questions that the DfE need to the end of the journey  
 
 
 ## User needs

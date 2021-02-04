@@ -1,7 +1,7 @@
 ---
-title: An example post with screenshots
-description: This example was generated using a script and shows how to use the screenshots macro.
-date: 2019-12-31
+title: NPQ registration
+description: First draft sketches for registration journeys
+date: 2021-01-12
 ---
 
 This is an example of a standard design history post – it begins with a preamble about the design and ends with a list of screenshots.

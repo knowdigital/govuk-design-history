@@ -71,14 +71,15 @@ I need to provide the correct data about myself in the application form (TRN, DO
       img: { src: "9.png" }
     }, {
       text: "Your school",
-      caption: "We are using the school that is stored on the DQT for this. However, this could be out of date as they are no longer updaing it. So may be better to junk this screen if too many are out of date. We need this to get  ",
+      caption: "We are using the school that is stored on the DQT for this. However, this could be out of date as they are no longer updaing it. So may be better to junk this screen if too many are out of date.   ",
       img: { src: "10.png" }
     },  {
       text: "Find your school",
-       caption: "If the user needs to change the school they are working at ",
+       caption: "There are several ways of handling school lookup. We'd need to test several versions to get the best one + ECF are looking into this as well. But for now we are using this pattern to test the principle of finding a school. First you enter a location to narrow the selection down.  ",
       img: { src: "11.png" }
     }, {
       text: "Choose your school",
+      caption: "Once the selection is narrowed down by the location, the user can choose their school using the type ahead.  ",
       img: { src: "12.png" }
     }, {
       text: "Your school",
@@ -97,6 +98,7 @@ I need to provide the correct data about myself in the application form (TRN, DO
       img: { src: "17.png" }
     }, {
       text: "NPQ account created",
+         caption: "Still not happy with this. We have to push the user over to the provider to finish and this looks like the whole journey has finished ",
       img: { src: "18.png" }
     }]
 }) }}

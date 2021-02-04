@@ -29,7 +29,7 @@ I need to provide the correct data about myself in the application form (TRN, DO
       caption: "The big issue we identiied from UR is that many users don't know or have access to their TRN number. We caught this right at the start of the journey to ensure users didn't get part way through and get into difficulties because it didn't exist",
       img: { src: "3.png" }
     }, {
-      text: "Don't have my TRN",
+      text: "Teacher reference number reminder",
         caption: "If users selected no on the previous screen, they will be taken here which gives them more help to find it or request a reminder",
       img: { src: "4.png" }
     }, {

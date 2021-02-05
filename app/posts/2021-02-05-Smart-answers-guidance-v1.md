@@ -30,6 +30,7 @@ To understand who provides NPQs
       img: { src: "1.png" }
     },  {
       text: "Choose to see personalised guidance or see everything",
+      caption: "Offer the choice to see everything, often users will worry that they are missing something otherwise ",
       img: { src: "2.png" }
     }, {
       text: "Career stage",
@@ -42,6 +43,7 @@ To understand who provides NPQs
       img: { src: "5.png" }
     }, {
       text: "Check funding - find a school",
+      caption: "We need to know the school they are at to see if they are eligible for DfE funding. This is a bit trickier than that as we need to know if the provider has places as well, but for this prototype we are just seeing if this pattern is something that works for users",
       img: { src: "6.png" }
     }, {
       text: "Choose school",
@@ -54,6 +56,7 @@ To understand who provides NPQs
       img: { src: "9.png" }
     },{
       text: "Provider options",
+       caption: "This page is deliberately light so as to get users to tell us what they need on here. ",
       img: { src: "10.png" }
     }]
 }) }}

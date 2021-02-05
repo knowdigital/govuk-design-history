@@ -1,10 +1,10 @@
 ---
-title: GDS guidance  v1
+title: Smart answers guidance v1
 description:
-date: 2021-02-03
+date: 2021-02-05
 ---
 
-The first version of GDS mainstream style guidance. The pages are based on the user needs from discovery. 
+This is similar content to the more standard guidance type pages. In this version we are asking the users questions and using the answers to give them personalised guidance. 
 
 We have deliberately kept the copy to the basics as we want the users to tell us what is missing/what else they need during research. 
 
@@ -22,26 +22,39 @@ To understand if I'm eligible for funding<br />
 <b>As a teacher </b> 
 To understand who provides NPQs
 
+
 {% from "screenshots/macro.njk" import appScreenshots with context %}
 {{ appScreenshots({
   items: [{
-      text: "What is an NPQ",
+      text: "Start",
       img: { src: "1.png" }
-    }, {
-      text: "Why should I study for an NPQ",
+    },  {
+      text: "Choose to see personalised guidance or see everything",
       img: { src: "2.png" }
     }, {
-      text: "What courses are available",
+      text: "Career stage",
       img: { src: "3.png" }
     }, {
-      text: "Who will pay",
+      text: "Career goal",
       img: { src: "4.png" }
     }, {
-      text: "How do I find a provider",
+      text: "Course advice",
       img: { src: "5.png" }
     }, {
-      text: "How do I apply",
+      text: "Check funding - find a school",
       img: { src: "6.png" }
+    }, {
+      text: "Choose school",
+      img: { src: "7.png" }
+    }, {
+      text: "Confirm school",
+      img: { src: "8.png" }
+    }, {
+      text: "Paying for training",
+      img: { src: "9.png" }
+    },{
+      text: "Provider options",
+      img: { src: "10.png" }
     }]
 }) }}
 

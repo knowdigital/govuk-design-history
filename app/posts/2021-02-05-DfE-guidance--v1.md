@@ -1,10 +1,10 @@
 ---
-title: GDS guidance  v1
+title: DfE guidance  v1
 description:
-date: 2021-02-03
+date: 2021-02-04
 ---
 
-The first version of GDS mainstream style guidance. The pages are based on the user needs from discovery. 
+The same content as the GDS mainstream version, just using a different pattern. The pages are based on the user needs from discovery. 
 
 We have deliberately kept the copy to the basics as we want the users to tell us what is missing/what else they need during research. 
 
@@ -25,25 +25,11 @@ To understand who provides NPQs
 {% from "screenshots/macro.njk" import appScreenshots with context %}
 {{ appScreenshots({
   items: [{
-      text: "What is an NPQ",
+      text: "Accordion version of guidance pages",
       img: { src: "1.png" }
-    }, {
-      text: "Why should I study for an NPQ",
-      img: { src: "2.png" }
-    }, {
-      text: "What courses are available",
-      img: { src: "3.png" }
-    }, {
-      text: "Who will pay",
-      img: { src: "4.png" }
-    }, {
-      text: "How do I find a provider",
-      img: { src: "5.png" }
-    }, {
-      text: "How do I apply",
-      img: { src: "6.png" }
     }]
 }) }}
+
 
 ## Iterations
 This is the first iteration of this journey

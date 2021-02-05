@@ -1,6 +1,6 @@
 ---
 title: Full registration task list
-description:
+description: Task list style full registration journey
 date: 2021-01-28
 ---
 We iterated on the full registration flow to try and deal with the issue of having questions that needs a lot of thought and writing later in the registration journey. A task list pattern that allows the user to see what they need to write in advance is one way of handling this.

@@ -1,6 +1,6 @@
 ---
 title: Full registration  v1
-description:
+description: First draft of the full registration journey taking place on the NPQ service
 date: 2021-01-27
 ---
 We iterated on the DfE first registration flow to create a flow that is entirely on the DfE service. The main change to this is that it needs to include the questions that providers typically ask - usually about why a teacher want to do the course.

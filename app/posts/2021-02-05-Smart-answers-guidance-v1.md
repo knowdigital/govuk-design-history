@@ -1,6 +1,6 @@
 ---
 title: Smart answers guidance v1
-description:
+description: Smart answers type pattern to test whether a questions and answers style process will help users understand NPQ
 date: 2021-02-05
 ---
 

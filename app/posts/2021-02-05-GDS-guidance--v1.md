@@ -1,6 +1,6 @@
 ---
 title: GDS guidance  v1
-description:
+description: GDS style guidance for the beginning of the NPQ journey
 date: 2021-02-03
 ---
 

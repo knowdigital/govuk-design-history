@@ -1,6 +1,6 @@
 ---
 title: DfE guidance  v1
-description:
+description: Guidance using an accordion pattern. Could be hosted on NPQ service
 date: 2021-02-04
 ---
 
